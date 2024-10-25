@@ -63,7 +63,7 @@
     border-radius: 10px;
     overflow: hidden;
     margin-bottom: 20px;
-    position: relative;
+    position: absolute;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .movie-card img {
@@ -158,8 +158,6 @@
 
   
   .rating {
-    display: flex;
-    align-items: center;
     margin-top: 10px;
   }
 #star {
