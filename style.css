@@ -264,7 +264,8 @@
 .footer {
     background-color: #2d2f30;
     color: white;
-    width: 100%;
+    /* width: 100%; */
+    max-width: 100%;
   }
   
   .footer a {
@@ -379,3 +380,4 @@
 #text2{
     color: rgb(128, 124, 124);
 }
+
